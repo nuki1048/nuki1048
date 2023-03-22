@@ -9,7 +9,7 @@
 </h1>
 
 <br>
-<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>🧰Programming languages and tools I use now </h2>
+🧰Programming languages and tools I use now
 
 <br>
 <div style='display: flex; align-items: center; justify-content: space-between;'>
