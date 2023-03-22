@@ -4,9 +4,9 @@
 
 #
 
-<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>✨Programming languages and tools I use now✨</h2>
+<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>🧰Programming languages and tools I use now </h2>
 
-<div style='width: 100%;display: flex; align-items: center; justify-content: space-between;'>
+<div style='display: flex; align-items: center; justify-content: space-between;'>
 
 <img width='30px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />      
@@ -20,6 +20,7 @@
 
 #
 
+<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>📊 Stats </h2>
 ![nuki1048 GitHub stats](https://github-readme-stats.vercel.app/api?username=nuki1048&show_icons=true&theme=dark)
 
 #
