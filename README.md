@@ -1,16 +1,10 @@
-### Hi there, my name is Nikita 👋
-
-<li>Im a frontend developer 🧑‍💻</li>
-
+### Hi there👋, my name is Nikita,Im a frontend developer 🧑‍💻
 <br>
+<h1 style='font-weight: 400; font-size: 15px; line-height: 10px;'>On this page you can see my projects and also my github statistics👇🏼 </h1>
 <br>
+<h3>🧰Programming languages and tools I use now </h3>
 
-<h1>On this page you can see my work and also my github statistics👇🏼
-</h1>
-
-<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>🧰Programming languages and tools I use now </h2>
-
-<div style='display: flex; align-items: center; justify-content: space-between;'>
+<div style='display: flex; align-items: center;'>
 <img width='30px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />      
 <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,12 +17,12 @@
 
 #
 
-<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>📊 Stats </h2>
+### 📊 ***Stats*** 
 
 ![nuki1048 GitHub stats](https://github-readme-stats.vercel.app/api?username=nuki1048&show_icons=true&theme=dark)
 
 #
 
-<h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>📈 Top used languages </h2>
+### 📈 ***Top used languages***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuki1048&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
