@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Im Nikita, my nickname is nuki1048** 
-### Im a frontend developer
+**Im Nikita, my nickname is nuki1048**
 
+### Im a frontend developer 🧑‍💻
 
 #
 
