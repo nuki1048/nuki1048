@@ -1,6 +1,6 @@
 ### Hi there, my name is Nikita 👋
 
-<h3>Im a frontend developer 🧑‍💻</h3>
+<li>Im a frontend developer 🧑‍💻</li>
 
 <h1>On this page you can see my work and also my github statistics👇🏼
 </h1>
