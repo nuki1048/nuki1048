@@ -1,9 +1,9 @@
-### Hi there 👋
-
-**Im Nikita, my nickname is nuki1048**
+### Hi there, my name is Nikita 👋
 
 ### Im a frontend developer 🧑‍💻
 
+<h1>On this page you can see my work and also my github statistics
+</h1>
 #
 
 <h2 style='color: #000; font-weight: 700; font-size: 25px; line-height: 32px;'>🧰Programming languages and tools I use now </h2>
