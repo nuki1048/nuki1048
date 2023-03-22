@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**nuki1048** is a ✨ _special_ ✨
+**Im Nikita, my nickname is nuki1048** 
+### Im a frontend developer
+
 
 #
 
