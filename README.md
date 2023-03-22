@@ -2,6 +2,8 @@
 
 <li>Im a frontend developer 🧑‍💻</li>
 
+<br>
+<br>
 <h1>On this page you can see my work and also my github statistics👇🏼
 </h1>
 
