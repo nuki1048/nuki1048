@@ -9,3 +9,7 @@
    <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
 </div>
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuki1048&show_icons=true&theme=transparent)
