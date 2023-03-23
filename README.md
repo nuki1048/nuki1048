@@ -1,4 +1,5 @@
 <h1> Hi there👋</h1>
+<img src='https://media.giphy.com/media/MaDNovFk0vKcfrBR95/giphy.gif'>
 
  ### A little about me :sleeping_bed:
 <br>
