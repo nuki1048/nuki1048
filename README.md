@@ -5,7 +5,7 @@
 <br>
 My name is Nikita, I am 18 y.o👦🏻.
 <br>
-I am a first-year student majoring in computer engineering at Mechnikov Odesa National University. I am currently studying web development, specifically frontend🧑‍💻. 
+I am a second-year student majoring in computer engineering at Mechnikov Odesa National University. I am currently studying web development, specifically frontend🧑‍💻. 
 <br>
 <h2 style='font-weight: 400; font-size: 15px; line-height: 10px;'>On this page you can see my projects and also my github statistics👇🏼 </h1>
 <br>
